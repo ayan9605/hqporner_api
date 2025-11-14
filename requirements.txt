@@ -6,3 +6,6 @@ m3u8
 h2
 brotli
 av
+fastapi
+uvicorn
+requests
